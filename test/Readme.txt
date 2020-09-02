@@ -4,14 +4,15 @@ To run the program you need to have mysql installed and the root password must b
 If you cant change the root password you should be able to make a new database and modify the code in Database.java
 line 25 where it says "root" and "password".
 If you are having trouble running the program on a mac then try opening the jar file through
-the command line, for some reason this fixed it.
-Also make sure you arnt on a vpn as this was causing problems with the smtp connection.
+the command line, for some reason this fixes it.
+Also make sure you aren't on a vpn as this was causing problems with the smtp connection.
 
 here is the email to test the program:
 email: testemailtestemail852@gmail.com
 pass: test123%
 
 to test the check inbox option:
+email yourself on the test email this:
 to: testemailtestemail852@gmail.com
 subject:Book Checked Out
 content Date: 8/3/2018 | Time: 9:48:35 AM
